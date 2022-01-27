@@ -4,7 +4,7 @@ A C++ based library built to store and open Profile based SSH Sessions.
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Technologies](#Technologies)
-* [Design Patterns](#Design Patterns)
+* [Design_Patterns](#Design Patterns)
 * [Analysis](#Analysis)
 * [Conclusion](#Conclusion)
 
