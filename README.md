@@ -4,7 +4,7 @@ A C++ based library built to store and open Profile based SSH Sessions.
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Technologies](#Technologies)
-* [Design_Patterns](#Design Patterns)
+* [Design_Patterns](#Design_Patterns)
 * [Analysis](#Analysis)
 * [Conclusion](#Conclusion)
 
@@ -14,7 +14,7 @@ DavidShellManager is a C++ library built to streamline SSH profiles that heavily
 ## Technologies
 - C++
 
-## Design Patterns
+## Design_Patterns
 <img width="639" alt="Screen Shot 2022-01-27 at 1 17 47 PM" src="https://user-images.githubusercontent.com/44683761/151428532-5dbe7c94-20e2-42c5-bc8b-427f132702e2.png">
 
 <img width="723" alt="Screen Shot 2022-01-27 at 9 20 41 AM" src="https://user-images.githubusercontent.com/44683761/151389524-aa0f9801-7c85-42b8-a522-a9a2171cc383.png">
