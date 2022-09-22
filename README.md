@@ -23,12 +23,4 @@ DavidShellManager is a C++ library built to streamline SSH profiles that heavily
 
 ## Setup
 ### About these design choices...
-Alright, I will admit, I did get a little design pattern fever during this project and massively increased the complexity of what could have been a pretty simple project, a direct violation of the [KISS design principle](https://en.wikipedia.org/wiki/KISS_principle). 
-
-## Analysis
-### Use Cases
-
-### Efficiency
-
-
-## Conclusion
+Alright, I will admit, I did get a little design pattern fever during this project and massively increased the complexity of what could have been a pretty simple project, a direct violation of the [KISS design principle](https://en.wikipedia.org/wiki/KISS_principle).
